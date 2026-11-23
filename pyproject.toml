@@ -47,7 +47,7 @@ typing-extensions = "^4.8.0"
 
 [tool.poetry.group.dev.dependencies]
 astunparse = "^1.6"
-black = "^23.7"
+black = ">=23.7,<27.0"
 datamodel-code-generator = "^0.23.0"
 isort = "^5.12"
 pytest = "^7.1"
